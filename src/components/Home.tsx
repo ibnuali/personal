@@ -2,9 +2,9 @@ const Home = () => {
   return (
     <div className="flex items-center justify-between">
       <div className="grid grid-cols-1 gap-4 lg:flex lg:flex-col ">
-        <span className="text-[40px] lg:text-[90px] font-bold text-white">Hello I'm</span>
-        <span className="text-[35px] lg:text-[90px] font-bold text-white">Ibnu Ali M</span>
-        <p className="text-lg lg:text-lg font-extralight text-white lg:w-1/2">
+        <span className="text-[30px] md:text-[60px] lg:text-[90px] font-bold text-white">Hello I'm</span>
+        <span className="text-[30px] md:text-[60px] lg:text-[90px] font-bold text-white">Ibnu Ali M</span>
+        <p className="text-md md:text-lg lg:text-lg font-extralight text-white w-full lg:w-1/2">
           I'm a passionate full-stack developer with expertise in Node.js and
           React.js, creating seamless and efficient web solutions from backend
           to frontend.
